@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+
+.baslık{
+    color: aqua;
+    text-align: center;
+}
+ul>li{
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    
+   
+}
+h2{
+    color: purple;
+}
